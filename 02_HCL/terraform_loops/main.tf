@@ -27,8 +27,6 @@ data "aws_ami" "name" {
     name   = "architecture"
     values = ["x86_64"]
   }
-
-
 }
 
 #예시 1 : count 사용한 반복
