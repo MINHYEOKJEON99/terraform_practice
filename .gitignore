@@ -29,3 +29,6 @@ terraform.rc
 # Terraform dependency lock file
 # 팀 프로젝트에서는 보통 커밋하는 것을 권장
 # .terraform.lock.hcl
+
+# 참고용으로 클론받은 외부 저장소
+terraform-aws-intermediate/
